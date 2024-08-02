@@ -46,6 +46,8 @@ python test_d8.py
 
 ## HVDualformerW-Adapt to multiple-light sources
 ```
-cd HvudalformerW
+cd HVDualformerW
 ```
-
+## Training data
+* The training data is configured based on the methodology described in *[Auto White-Balance Correction for Mixed-Illuminant Scenes(WACV22)](https://arxiv.org/abs/2109.08750)*
+* Training data is available from the *[Rendered WB dataset - Set1](https://cvil.eecs.yorku.ca/projects/public_html/sRGB_WB_correction/dataset.html)*
