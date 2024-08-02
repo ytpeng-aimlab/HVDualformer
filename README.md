@@ -45,6 +45,8 @@ python test_d8.py
 *  Change the `"get_test_set"` in test.py. <br>
 
 ## HVDualformerW-Adapt to multiple-light sources
+<img src="./Figures/HVdualformerW_arch.png" width = "800" height = "350" div align=center />
+
 ```
 cd HVDualformerW
 ```
