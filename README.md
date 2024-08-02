@@ -43,3 +43,9 @@ python test_d12.py
 python test_d8.py 
 ```
 *  Change the `"get_test_set"` in test.py. <br>
+
+## HVDualformerW-Adapt to multiple-light sources
+```
+cd HvudalformerW
+```
+
