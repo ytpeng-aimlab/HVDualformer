@@ -56,3 +56,8 @@ cd HVDualformerW
 python traintds.py --patch-size <TRAINING PATCH SIZE>
 python traintdsfc.py --patch-size <TRAINING PATCH SIZE>
 ```
+## Testing data
+* The testing data is configured based on the methodology described in *[Mixed-illumination dataset](https://arxiv.org/abs/2109.08750)*
+```
+python test.py --wb-settings <WB SETTING 1> <WB SETTING 2> ... <WB SETTING N>
+```
