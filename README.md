@@ -33,7 +33,7 @@ python train_d12.py --dir_img ../dataset/
 python train_d8.py --dir_img ../dataset/
 ```
 ## Testing data
-* Pretrained models : *[Rendered Cube+ dataset](http://gofile.me/65TdH/Dli4VUjUg)* 、 *[Rendered WB dataset:Set1-Test](http://gofile.me/65TdH/QTMC1iCie)* 、 *[Rendered WB dataset:Set2](http://gofile.me/65TdH/1uz8r0MnT)*
+* Pretrained models : *[Rendered Cube+ dataset](http://gofile.me/65TdH/y7daONJB6)* 、 *[Rendered WB dataset:Set1-Test](http://gofile.me/65TdH/DkR69Z1JG)* 、 *[Rendered WB dataset:Set2](http://gofile.me/65TdH/YluetLLGD)*
 * To use HVDualformer+ (C=12), run the following command:
 ```
 python test_d12.py
