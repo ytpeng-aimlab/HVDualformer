@@ -47,7 +47,7 @@ python test_d8.py
 ## Results presentation
 <img src="./Figures/awb_correction.png" width = "800" height = "350" div align=center />
 
-## HVDualformerW-Adapt to multiple-light sources
+## HVDualformerW- extension that adapts to multiple-light sources
 <img src="./Figures/HVdualformerW_arch.png" width = "800" height = "350" div align=center />
 
 ```
