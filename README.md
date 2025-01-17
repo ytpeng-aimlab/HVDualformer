@@ -29,10 +29,8 @@ The advent of deep neural networks has significantly advanced the progress of wh
 ```
 python train_d12.py --dir_img ../dataset/images
 ```
-* (ground truth images)
-```
-python train_d12.py --dir_img ../dataset/images/gt
-```
+ground truth images path : ./dataset/gt
+
 * To use HVDualformer+ (C=8), run the following command:
 ```
 python train_d8.py --dir_img ../dataset/
