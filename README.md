@@ -25,8 +25,13 @@ The advent of deep neural networks has significantly advanced the progress of wh
 * The training fold is configured based on the methodology described in *[Deep White-balance Editing (CVPR 2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Afifi_Deep_White-Balance_Editing_CVPR_2020_paper.pdf)*
 * Training data is available from the *[Rendered WB dataset - Set1](https://cvil.eecs.yorku.ca/projects/public_html/sRGB_WB_correction/dataset.html)*
 * To use HVDualformer+ (C=12), run the following command:
+* (input images)
 ```
-python train_d12.py --dir_img ../dataset/
+python train_d12.py --dir_img ../dataset/images
+```
+* (ground truth images)
+```
+python train_d12.py --dir_img ../dataset/images/gt
 ```
 * To use HVDualformer+ (C=8), run the following command:
 ```
