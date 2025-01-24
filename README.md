@@ -33,7 +33,7 @@ ground truth images path : ./dataset/gt
 
 * To use HVDualformer+ (C=8), run the following command:
 ```
-python train_d8.py --dir_img ../dataset/
+python train_d8.py --dir_img ../dataset/images
 ```
 ## Testing data
 * Pretrained models : *[Rendered Cube+ dataset](http://gofile.me/65TdH/y7daONJB6)* 、 *[Rendered WB dataset:Set1-Test](http://gofile.me/65TdH/DkR69Z1JG)* 、 *[Rendered WB dataset:Set2](http://gofile.me/65TdH/YluetLLGD)*
